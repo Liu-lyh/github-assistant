@@ -1,3 +1,4 @@
+#主函数
 from github_api import get_repo_info
 
 owner=input("用户名:").strip()
